@@ -35,3 +35,4 @@ print("naver","kakao","sk","samsung",sep="/")
 print("first ",end="");print("second")
 #%%
 print(5/3)
+
